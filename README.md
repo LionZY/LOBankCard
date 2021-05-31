@@ -6,8 +6,4 @@
 
 **演示Demo**
 
-<<<<<<< HEAD
 ![avatar](./demo.jpg)
-=======
-![avatar](./demo.png)
->>>>>>> 989acb26e0baeada7123bf724fa86463ed7241d8
