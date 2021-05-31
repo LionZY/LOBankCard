@@ -6,4 +6,4 @@
 
 **演示Demo**
 
-<img src="./demo.jpg" width = "585" height = "1266" alt="" align=center />
+<img src="./demo.jpg" width = "400" height = "866" alt="" align=center />
