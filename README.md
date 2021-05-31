@@ -6,4 +6,4 @@
 
 **演示Demo**
 
-![avatar](./demo.png)
+![avatar](./demo.jpg)
