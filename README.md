@@ -6,4 +6,4 @@
 
 **演示Demo**
 
-![avatar](./demo.jpg)
+<img src="./demo.jpg" width = "585" height = "1266" alt="" align=center />
